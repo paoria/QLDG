@@ -3,7 +3,7 @@
 
 Prerequisites: Python 3.x, numpy, random
 
-How to use: run main.py from a folder containing every file in this repository
+How to use: run main.py from a folder containing every file in this repository. The QLDG.ipynb notebook can also be run independently. 
 
 The code first trains an AI agent how to generate dungeons using Q-learning. The resulting dungeons have a size of 4x4 and closed exterior walls, as well as a long path on which lie an entrance, treasure and exit. 
 
